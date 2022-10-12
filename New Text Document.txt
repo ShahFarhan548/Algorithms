@@ -1,0 +1,39 @@
+Data Structures and Algorithms 
+  Algorithms :
+             * Search Algorithms
+             * Sorting Algorithms
+             * Time complexity 
+             * Space complexity
+Search Algorithms:
+
+    Binary Search:
+                    In this kind of search algorithms the string or the 
+                    element to be searched is located by continously dividing
+                    the array by half , unless we are narrowed to the term.
+    Naive String Search :
+                    In this type of search algorithms we find a string inside 
+                    a string by compairig it to the elements of the string one 
+                    by one.
+
+Sorting Algorithms:
+    
+    Bubble Sorting:
+                    Bubble sort is a basic algorithm for arranging a string 
+                    of numbers or other elements in the correct order. The
+                    method works by examining each set of adjacent elements
+                    in the string, from left to right,switching their positions
+                    if they are out of order.
+    
+    Selection Sorting:
+                    The selection sort algorithm sorts an array by repeatedly
+                    finding the minimum element (considering ascending order)
+                    from the unsorted part and putting it at the beginning. The 
+                    algorithm maintains two subarrays in a given array. The 
+                    subarray which already sorted.
+
+    Insertion Sorting:
+                    Insertion sort works similarly as we sort cards in our hand 
+                    in a card game. We assume that the first card is already 
+                    sorted then, we select an unsorted card. If the unsorted 
+                    card is greater than the card in hand, it is placed on the 
+                    right otherwise, to the left.
