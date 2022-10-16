@@ -11,7 +11,7 @@ function InsertionSort(arr){
     console.log(arr);
     return arr;
 }
-
+// hey this isa sunday and ib need  to commit  something
 InsertionSort([23,5,13,16,1])
 //             23   5    13     16    1
 //              j   i                   i and j are compared , 5<23 and j=0
