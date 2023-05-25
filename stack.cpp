@@ -12,3 +12,4 @@ int main() {
     cout<<"the top element of the stack is : "<<s.top()<<endl;
     return 0;
 }
+// write a function that returns the reverse of the stack
